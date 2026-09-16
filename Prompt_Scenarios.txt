@@ -1,0 +1,267 @@
+PROMPT-1: Blog Post: Impact of AI in Today's World
+
+Act as an experienced blog writer.
+
+Write an interesting blog post on the topic "Impact of AI in Today's World."
+
+Target audience: School students, college students, and research scholars.
+
+The blog must:
+
+* Start with an introduction to AI.
+* Explain how AI is influencing today's world and making our work easier.
+* Explain how AI is changing traditional methods.
+* Explain how AI should not be used and the importance of using it responsibly.
+* Use simple terms and easy-to-understand language.
+* Keep the content practical rather than dramatic.
+* Be approximately 200–300 words.
+
+Give only the blog content.
+_________________________________________________________________________________________________________________________________
+
+PROMPT-2: Cold Outreach Email: An AI company approaching an education institute
+
+Act as a Senior Business Development Manager.
+
+Write a cold outreach email for XYZ AI Company approaching an educational institute.
+
+The email should:
+
+* Briefly introduce the company using [Previous Works], [Working Style], [Affiliated Companies], and [Working Partners].
+* Explain the need for AI education and its importance for students.
+* Explain why the institute should choose our company for AI-related courses.
+* Mention mentors with real-world MNC experience who can provide practical knowledge and industry exposure.
+* Mention the possibility of hiring suitable candidates with practical skills.
+* Use professional language.
+* Avoid making it look like spam.
+* Keep it between 100–200 words.
+
+Use a professional email format with a suitable subject line and email body content.
+
+_________________________________________________________________________________________________________________________________
+
+PROMPT-3: Follow-up Email: A software company following up after a product demo
+
+Act as a Software Company Team Lead.
+
+Draft a follow-up email to a client after a product demo.
+
+The email should:
+
+* Start by mentioning that we had a product demo and team meeting last week and thank them for their cooperation.
+* Mention that the email is to follow up and check how the product is working for them.
+* Ask for feedback on the product and whether it is functioning properly.
+* Mention that the client can contact the company anytime if they face any difficulties and that our team is ready to assist them.
+* Use professional language.
+* Keep it between 100–150 words.
+* Follow a professional email format.
+
+Give a suitable subject line and email body.
+
+_________________________________________________________________________________________________________________________________
+
+PROMPT-4: YouTube Title + Description: Learn GEN-AI
+
+Act as an experienced YouTube Content Strategist.
+
+Create YouTube titles and a description for a video based on:
+
+Topic: "Generative AI for Beginners"
+
+Target audience: People who are beginners in the Generative AI domain.
+
+Topics covered:
+
+* Why Generative AI
+* Good and bad prompts
+* RTCF framework
+* Prompting techniques: zero-shot, few-shot, role prompting, chain-of-thought, constraints, and format control
+* Chatbots, grounded chatbots, and FAQs
+* RAG: introduction and LangChain
+
+Requirements:
+
+* Generate 4 title options for the video.
+* Make the titles clear and include relevant keywords.
+* Avoid misleading clickbait.
+* Write a 100–150 word description that clearly explains what will be covered throughout the learning process.
+* Use simple and easy-to-understand English.
+
+Response format:
+
+Title 1:
+Title 2:
+Title 3:
+Title 4:
+
+Description:
+
+_________________________________________________________________________________________________________________________________
+
+PROMPT-5: Newsletter section 
+
+Act as an experienced Newsletter Writer.
+
+Write one section of a newsletter about:
+
+Topic: "Placement Challenges for Students in the Age of AI"
+
+Target audience: School and college students, especially freshers.
+
+Purpose: Help freshers understand the increasing challenges in the current placement scenario 
+         and how the evolution of AI is affecting job opportunities.
+
+The newsletter section should:
+
+* Create an interesting and practical heading.
+* Clearly explain the current scenario in the tech industry and the factors contributing to placement challenges.
+* Present the information in a trustworthy and balanced manner.
+* Provide practical advice on how students can develop their skills and stand out in a competitive placement environment.
+* Keep it between 200–300 words.
+
+_________________________________________________________________________________________________________________________________
+
+PROMPT-6: Ad copy 
+
+Act as an experienced Social Media Copywriter.
+
+Create advertisement copy to promote our web and mobile application development services.
+
+Product/Service: Software development services for web and mobile applications.
+
+Target audience: Individuals and businesses looking for quality software development services at an affordable cost.
+
+Main benefits:
+
+* Deliver projects on time with dedicated effort and attention.
+* Provide cost-effective development solutions.
+* Experienced developers who give proper attention to each project.
+
+Offers:
+
+* Discounts for successful referrals.
+* Free updates and corrections for one additional year after project completion.
+
+Desired actions:
+
+* Contact us for developing web or mobile applications.
+* Visit our website to explore our previous projects, customer feedback, and experience.
+
+Platforms: LinkedIn, Instagram, Facebook, and YouTube Ads.
+
+Requirements:
+
+* Create vibrant and attractive advertisement copy while maintaining a professional tone.
+* Keep the content engaging and suitable for the target audience.
+* Avoid unsupported claims or misleading offers.
+* Include a clear call to action.
+* Create multiple variations suitable for the listed platforms.
+
+_________________________________________________________________________________________________________________________________
+
+PROMPT-7: Article Summarization
+
+Act as an experienced Article Summarizer and Educational Content Writer.
+
+Article:
+[Insert a short article about Cloud Computing and AI here.]
+
+Extract:
+
+* Identify the key points from the article.
+* Avoid detailed explanations.
+* Do not add any information that is not present in the article.
+* Use simple and easy-to-understand English.
+* Keep the summary within 100 words.
+* Present the key points as bullet points followed by a summary section.
+
+Output format:
+
+Key Points:
+1.
+2.
+3.
+4.
+
+Summary:
+
+_________________________________________________________________________________________________________________________________
+
+PROMPT-8: Tone Rewriter: Casual to Formal – Internship Request
+
+Act as an experienced Content Editor.
+
+Rewrite the following content:
+[Insert casual internship request here]
+
+Current tone: Casual
+Desired tone: Formal
+
+The rewritten content should:
+
+* Maintain the original message and intent.
+* Make the request polite, professional, and suitable for a formal internship inquiry.
+* Use appropriate language for recipients such as HR professionals, managers, or company heads.
+* Clearly communicate the applicant's interest in an internship opportunity.
+* Maintain a respectful and confident tone without sounding overly demanding or informal.
+* Improve the grammar, sentence structure, and overall professionalism.
+* Do not add new information or change the original meaning.
+
+Output format:
+
+Rewritten Version:
+
+_________________________________________________________________________________________________________________________________
+
+PROMPT-9: Instagram Caption
+
+Act as a Professional Social Media Content Writer/Copywriter.
+
+Write an Instagram caption promoting our saree collection.
+
+Target audience: Girls and women looking for unique and affordable saree collections.
+
+The caption should:
+
+* Highlight the wide range of saree collections available on our page.
+* Mention the preferred materials and fabrics used in our collections.
+* Highlight our best-selling products.
+* Explain how our wide price range makes our collections affordable for different customers.
+* Mention that customers can visit our physical store, check our Instagram stories for upcoming stalls, or place orders through our website.
+* Use a friendly, attractive, and engaging tone.
+* Include a clear call to action.
+* Keep the caption suitable for Instagram.
+
+Output format:
+Return only the Instagram caption.
+
+_________________________________________________________________________________________________________________________________
+
+PROMPT-10: Story Generation for Kids
+
+Act as a creative Children's Short Story Writer.
+
+Write a short story based on:
+[Give the title/topic you want]
+
+Genre: Moral Story
+
+Target audience: Children aged between 7 and 12.
+
+Requirements:
+
+* Use simple and easy-to-understand English.
+* Make the story interesting, but not too long or overly dramatic.
+* Include interesting and lively characters that can attract children's attention.
+* Include positive elements that teach children meaningful values.
+* Avoid complicated vocabulary and language.
+* Give the story an attractive and suitable title.
+* Keep the story approximately 100–200 words long.
+
+Output format:
+Title:
+
+Story:
+
+_________________________________________________________________________________________________________________________________
+
